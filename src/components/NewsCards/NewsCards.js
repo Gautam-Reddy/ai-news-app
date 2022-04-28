@@ -6,21 +6,21 @@ import NewsCard from '../NewsCard/NewsCard';
 import useStyles from './styles';
 
 const infoCards = [
-  { color: '#00838f', title: 'Latest News', text: 'Give me the latest news' },
+  { color: '#66a5ad', title: 'Weather Update', text: 'What is the temperature in Hyderabad' },
   {
-    color: '#1565c0',
+    color: '#336b87',
     title: 'News by Categories',
     info: 'Business, Entertainment, General, Health, Science, Sports, Technology',
     text: 'Give me the latest Technology news',
   },
   {
-    color: '#4527a0',
+    color: '#2a3132',
     title: 'News by Terms',
     info: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...',
     text: "What's up with Smartphones",
   },
   {
-    color: '#283593',
+    color: '#763626',
     title: 'News by Sources',
     info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...',
     text: 'Give me the news from CNN',

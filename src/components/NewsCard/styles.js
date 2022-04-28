@@ -1,12 +1,12 @@
 import { makeStyles } from '@material-ui/core/styles';
-
+ 
 export default makeStyles((theme) => ({
   card: {
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
     borderBottom: '10px solid white',
-  },
+    },
   activeCard: {
     borderBottom: '10px solid #22289a',
   },
